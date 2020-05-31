@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "5eb19ee0660571d16de110b4"
+  },
+  "name": "Dinamo",
+  "trainer": "Arthur",
+  "command": 15,
+  "participant": [
+    "Anton",
+    "Dima",
+    "Artem",
+    "Kristi",
+    "Jordan"
+  ]
+},{
+  "_id": {
+    "$oid": "5eb1a33f660571d16de110b5"
+  },
+  "name": "Metal",
+  "trainer": "Anton",
+  "command": 14,
+  "participant": [
+    "Voron",
+    "Stasik",
+    "Petko",
+    "Dimon",
+    "Turik",
+    "Jeka"
+  ]
+}]

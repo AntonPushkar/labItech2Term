@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5eb1a429660571d16de110b6"
+  },
+  "league": "first",
+  "place": "kharkov",
+  "game": [
+    "Dinamo",
+    "Metal"
+  ],
+  "win": "Dinamo",
+  "score": [
+    1,
+    0
+  ],
+  "date": {
+    "$date": "2020-03-02T22:00:00Z"
+  }
+}]
